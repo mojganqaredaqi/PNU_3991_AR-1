@@ -62,7 +62,7 @@
   </tr>
    <tr>
      <th></th>
-     <th>مدار منطقی</th>
+     <th></th>
      <th></th>
      <th></th>
      <th></th>
