@@ -8,7 +8,7 @@
 - [resume](https://sh-eftekhari.github.io/)
 - [SOP](https://sh-eftekhari.github.io/SOP/) 
 - [javascript Certificate](https://www.sololearn.com/Certificate/1024-20546123/pdf)
-- [jlord patchwork](http://jlord.us/patchwork/sh-eftekhari)
+- [jlord patchwork](http://jlord.us/patchwork)
   
 ------------------
 
