@@ -141,7 +141,7 @@
    <tr>
     <th></th>
      <th ></th>
-     <th ></th>
+     <th >فیزیک2</th>
      <th></th>
     <th></th>
     <th></th>   
