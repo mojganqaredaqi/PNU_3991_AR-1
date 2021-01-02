@@ -7,7 +7,7 @@
 - [PNU_3991_AR](https://github.com/sh-eftekhari/PNU_3991_AR)
 - [resume](https://sh-eftekhari.github.io/)
 - [SOP](https://sh-eftekhari.github.io/SOP/) 
-- [javascript Certificate](js.jpg)
+- [javascript Certificate](js.jpeg)
 - [jlord patchwork](jlord.jpg)
   
 ------------------
